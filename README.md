@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Neihana-G
-- 👀 I’m interested in becoming a Full Stacked Developer
-- 🌱 I’m currently learning HTML, CSS, Javascript, React
+- 👀 I’ve recently finished my Full Stacked Developer certificate with Mission Ready!
+- 🌱 I’m currently practising with React and Javascipt
 - 💞️ I’m looking to collaborate on anything
 
 
